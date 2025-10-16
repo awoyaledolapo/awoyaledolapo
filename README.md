@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋🏽 Hey, I'm AWOYALE DOLAPO  — Frontend Developer & UI Craftsman
+# 👋🏽 Hey, I'm AWOYALE DOLAPO   Frontend Developer & UI Craftsman
 
 I'm a frontend developer who loves turning ideas into beautiful, functional web experiences. I build responsive, interactive interfaces that not only look great but work flawlessly across devices.
 
