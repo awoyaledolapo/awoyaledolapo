@@ -9,10 +9,9 @@ Whether it's a dashboard for a SaaS platform, a real-time SignalR chat app, or a
 ---
 
 What I Work With
-- **Languages:** HTML • CSS • JavaScript • TypeScript
-- **Frameworks & Tools:** React • Next.js • Tailwind CSS • Bootstrap
-- **Current Focus:** Building sleek UIs, mastering frontend architecture, and diving deeper into backend integration.
-
+- **Languages**: HTML5 • CSS3 • JavaScript (ES6+) • TypeScript
+- **Frameworks**: Next.js • Expo (React Native)
+- **Libraries & Tools**: React • Tailwind CSS • Bootstrap • Git
 ---
 
 ###  Open To
